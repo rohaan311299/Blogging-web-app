@@ -19,7 +19,6 @@
 	<ol>
 		<li>HTML</li>
 		<li>CSS</li>
-		<li>JS</li>
 		<li>Python | Flask</li>
 		<li>SQLAlchemy</li>
 	</ol>
